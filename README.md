@@ -30,9 +30,9 @@
 
 <p align="left">
   <a href="https://neu.edu.ph/main/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/New_Era_University_Logo.png/120px-New_Era_University_Logo.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/New_Era_University_logo.png" 
          alt="New Era University Logo" 
-         style="width:40px; height:40px; vertical-align:middle; margin-right:8px;"/>
+         style="width:50px; height:50px; vertical-align:middle; margin-right:8px;"/>
     <strong>New Era University</strong>
   </a><br>
   Bachelor of Science in Information Technology (BSIT)<br>
