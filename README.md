@@ -2,7 +2,7 @@
 
 <!-- Profile Picture -->
 <div align="left" style="margin-bottom:20px;">
-  <img src="https://your-link-to-profile-pic.com/Edward%20Jasteen%20Profile%20Pic%20dark.jpg" 
+  <img src="Edward Jasteen Profile Pic dark.jpg" 
        alt="Edward Jasteen H. de Gala" 
        style="width:120px; height:120px; border-radius:50%; object-fit:cover;"/>
 </div>
@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://neu.edu.ph/main/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/New_Era_University_logo.png" 
+    <img src="New Era University Logo.png" 
          alt="New Era University Logo" 
          style="width:50px; height:50px; vertical-align:middle; margin-right:8px;"/>
     <strong>New Era University</strong>
