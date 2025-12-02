@@ -26,7 +26,7 @@
 ###
 
 <p align="left">
-  <strong>New Era University</strong><br>
+  <a href="https://neu.edu.ph/main/" target="_blank"><strong>New Era University</strong></a><br>
   Bachelor of Science in Information Technology (BSIT)<br>
   2024 - Present
 </p>
